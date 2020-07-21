@@ -4,17 +4,21 @@ summaryLength = "10"
 theme = "kross-hugo"
 title = "Quinta Dimension Digital"
 [[menu.main]]
-URL = "contact"
-name = "Contacto"
-weight = 3
-[[menu.main]]
-URL = "portfolio"
-name = "Portfolio"
-weight = 2
+URL = "about"
+name = "About"
+weight = 1
 [[menu.main]]
 URL = "blog"
 name = "Blog"
-weight = 1
+weight = 2
+[[menu.main]]
+URL = "portfolio"
+name = "Portfolio"
+weight = 3
+[[menu.main]]
+URL = "contact"
+name = "Contact"
+weight = 4
 [params]
 address = ""
 author = "Quinta Dimension Digital"
@@ -51,7 +55,7 @@ link = "plugins/slick/slick.min.js"
 link = "plugins/shuffle/shuffle.min.js"
 [params.preloader]
 enable = true
-preloader = "images/preloader.gif"
+preloader = "images/quinta-dimension-digital_logo_iso.png"
 [[params.social]]
 URL = "https://www.facebook.com/quintadimensiondigital"
 icon = "ti-facebook"
