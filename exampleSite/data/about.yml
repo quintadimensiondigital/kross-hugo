@@ -31,7 +31,3 @@ team:
 clients_logo_slider:
   enable: true
   title: My Clients
-menu:
-  main:
-    name: Servicios
-    weight: 5

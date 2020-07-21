@@ -3,6 +3,9 @@ email = "5tadimensiondigital@gmail.com"
 image = ""
 social = []
 title = "zaraza"
+[menu.main]
+name = "Servicios"
+weight = 5
 
 +++
 test
