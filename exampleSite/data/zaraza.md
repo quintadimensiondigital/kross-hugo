@@ -1,6 +1,6 @@
 +++
 email = "5tadimensiondigital@gmail.com"
-image = ""
+image = "/images/quinta-dimension-digital_logo_iso.png"
 social = []
 title = "zaraza"
 [menu.main]
