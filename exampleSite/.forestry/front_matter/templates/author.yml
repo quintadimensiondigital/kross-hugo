@@ -22,4 +22,5 @@ fields:
     name: link
     label: link
 pages:
+- exampleSite/content/english/author/test.md
 - exampleSite/data/zaraza.md
