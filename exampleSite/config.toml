@@ -62,7 +62,7 @@ preloader = "images/preloader.gif"
 URL = "#"
 icon = "ti-facebook"
 [[params.social]]
-URL = "#"
+URL = "https://instagram.com/quintadimensiondigital"
 icon = "ti-instagram"
 [[params.social]]
 URL = "#"
