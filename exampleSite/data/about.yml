@@ -31,3 +31,7 @@ team:
 clients_logo_slider:
   enable: true
   title: My Clients
+menu:
+  main:
+    name: zzzz
+    weight: 6
