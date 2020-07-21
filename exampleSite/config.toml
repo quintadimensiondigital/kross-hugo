@@ -55,7 +55,7 @@ link = "plugins/slick/slick.min.js"
 link = "plugins/shuffle/shuffle.min.js"
 [params.preloader]
 enable = true
-preloader = "images/quinta-dimension-digital_logo_iso.png"
+preloader = "images/preloader.gif"
 [[params.social]]
 URL = "https://www.facebook.com/quintadimensiondigital"
 icon = "ti-facebook"
