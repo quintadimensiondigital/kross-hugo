@@ -1,8 +1,8 @@
 baseURL = "https://nervous-shannon-5c22e7.netlify.app/"
-languageCode = "en-us"
+languageCode = "es-ar"
 summaryLength = "10"
 theme = "kross-hugo"
-title = "Kross"
+title = "Quinta Dimension Digital"
 [[menu.main]]
 URL = "about"
 name = "About"
@@ -20,15 +20,15 @@ URL = "contact"
 name = "Contact"
 weight = 4
 [params]
-address = "125/A, CA Commercial Area, California, USA"
-author = "Johnathan Smith"
-copyright = "Copyright &copy; 2020 a theme by [gethugothemes](https://gethugothemes.com)"
-description = "This is meta description"
+address = ""
+author = ""
+copyright = "Copyright &copy; 2020 Quinta Dimension Digital"
+description = "Quinta Dimension Digital Agencia Marketing Digital"
 email = "steve.fruits@email.com"
 google_analytics_id = ""
 home = "Home"
 logo = ""
-phone = "+880 2544 658 256"
+phone = "+54"
 theme_color = "#41228e"
 [params.contact]
 enable = true
