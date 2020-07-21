@@ -53,8 +53,6 @@ link = "plugins/bootstrap/bootstrap.min.js"
 link = "plugins/slick/slick.min.js"
 [[params.plugins.js]]
 link = "plugins/shuffle/shuffle.min.js"
-[[params.plugins.js]]
-link = "plugins/google-map/map.js"
 [params.preloader]
 enable = true
 preloader = "images/preloader.gif"
