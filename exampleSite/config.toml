@@ -5,7 +5,7 @@ theme = "kross-hugo"
 title = "Quinta Dimension Digital"
 [[menu.main]]
 URL = "contact"
-name = "Contact"
+name = "Contacto"
 weight = 4
 [[menu.main]]
 URL = "portfolio"
