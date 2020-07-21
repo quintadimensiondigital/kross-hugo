@@ -21,10 +21,10 @@ name = "Contact"
 weight = 4
 [params]
 address = ""
-author = ""
+author = "Quinta Dimension Digital"
 copyright = "Copyright &copy; 2020 Quinta Dimension Digital"
 description = "Quinta Dimension Digital Agencia Marketing Digital"
-email = "steve.fruits@email.com"
+email = "5tadimensiondigital@gmail.com"
 google_analytics_id = ""
 home = "Home"
 logo = ""
