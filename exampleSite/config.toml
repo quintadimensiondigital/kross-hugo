@@ -59,14 +59,11 @@ link = "plugins/google-map/map.js"
 enable = true
 preloader = "images/preloader.gif"
 [[params.social]]
-URL = "#"
+URL = "https://www.facebook.com/quintadimensiondigital"
 icon = "ti-facebook"
 [[params.social]]
 URL = "https://instagram.com/quintadimensiondigital"
 icon = "ti-instagram"
-[[params.social]]
-URL = "#"
-icon = "ti-dribbble"
 [[params.social]]
 URL = "#"
 icon = "ti-twitter-alt"
