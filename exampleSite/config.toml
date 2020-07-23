@@ -2,7 +2,7 @@ baseURL = "https://quintadimension.digital"
 languageCode = "es-ar"
 summaryLength = "10"
 theme = "kross-hugo"
-title = "Quinta Dimension Digital"
+title = ""
 [[menu.main]]
 URL = "nosotros"
 name = "Nosotros"
