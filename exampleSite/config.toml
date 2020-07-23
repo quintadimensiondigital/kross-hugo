@@ -3,6 +3,22 @@ languageCode = "es-ar"
 summaryLength = "10"
 theme = "kross-hugo"
 title = ""
+[[menu.main]]
+URL = "nosotros"
+name = "NOSOTROS2"
+weight = "1"
+[[menu.main]]
+URL = "nosotros"
+name = "Nosotros"
+weight = 1
+[[menu.main]]
+URL = "servicios"
+name = "Servicios"
+weight = 2
+[[menu.main]]
+URL = "contacto"
+name = "Contacto"
+weight = 4
 [params]
 address = ""
 author = "Quinta Dimension Digital"
