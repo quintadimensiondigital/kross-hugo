@@ -31,8 +31,7 @@ team:
 clients_logo_slider:
   enable: true
   title: My Clients
-title: nosotros.yml
+title: nosotros
 menu:
   main:
-    name: nosotros
     weight: 1
