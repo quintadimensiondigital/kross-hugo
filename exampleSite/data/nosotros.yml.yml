@@ -32,3 +32,7 @@ clients_logo_slider:
   enable: true
   title: My Clients
 title: nosotros.yml
+menu:
+  main:
+    name: nosotros
+    weight: 2
