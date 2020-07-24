@@ -12,6 +12,10 @@ URL = "servicios"
 name = "Servicios"
 weight = 2
 [[menu.main]]
+URL = "portfolio"
+name = "Portfolio"
+weight = 3
+[[menu.main]]
 URL = "contacto"
 name = "Contacto"
 weight = 4
