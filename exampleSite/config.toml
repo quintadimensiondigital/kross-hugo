@@ -27,7 +27,7 @@ description = "Quinta Dimension Digital Agencia Marketing Digital"
 email = "5tadimensiondigital@gmail.com"
 google_analytics_id = ""
 home = "Home"
-logo = "/images/output-onlinepngtools.png"
+logo = ""
 phone = ""
 theme_color = "#23185a"
 [params.contact]
