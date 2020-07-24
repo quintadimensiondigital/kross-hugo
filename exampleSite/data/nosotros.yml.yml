@@ -32,3 +32,4 @@ clients_logo_slider:
   enable: true
   title: My Clients
 title: nosotros.yml
+draft: true
