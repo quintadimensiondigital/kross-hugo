@@ -8,8 +8,8 @@ URL = "nosotros"
 name = "Nosotros"
 weight = 1
 [[menu.main]]
-URL = "servicios"
-name = "Servicios"
+URL = "blog"
+name = "Blog"
 weight = 2
 [[menu.main]]
 URL = "portfolio"
