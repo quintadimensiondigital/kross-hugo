@@ -35,5 +35,5 @@ title: contacto.yml
 menu:
   main:
     URL: contact
-    name: contacto
-    weight: 3
+    name: Contacto
+    weight: 1
