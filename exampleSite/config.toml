@@ -5,6 +5,10 @@ theme = "kross-hugo"
 title = ""
 [[menu.main]]
 URL = "nosotros"
+name = "NOSOTROS2"
+weight = "1"
+[[menu.main]]
+URL = "nosotros"
 name = "Nosotros"
 weight = 1
 [[menu.main]]
