@@ -4,8 +4,8 @@ summaryLength = "10"
 theme = "kross-hugo"
 title = "Quinta Dimension Digital"
 [[menu.main]]
-URL = "nosotros"
-name = "Nosotros"
+URL = "acerca"
+name = "Acerca"
 weight = 1
 [[menu.main]]
 URL = "blog"
