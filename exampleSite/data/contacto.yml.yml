@@ -32,8 +32,3 @@ clients_logo_slider:
   enable: true
   title: My Clients
 title: contacto.yml
-menu:
-  main:
-    URL: contact
-    name: Contacto
-    weight: 1
